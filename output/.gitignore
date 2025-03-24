@@ -169,5 +169,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-data/lightcast_cleaned.csv
-data/lightcast_job_postings.csv
