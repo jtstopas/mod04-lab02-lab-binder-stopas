@@ -38,7 +38,7 @@ Using the same data setup from plot_03, plot _04 above indicated that the REMOTE
 
 ___
 
-__Alternatively, ou can also access the analysis from here__
+__Alternatively, ou can also access the analysis from here:__
 
 You can also launch a live version of the notebook this way:<br>
 [![Launch in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jtstopas/mod04-lab02-lab-binder-stopas/HEAD?filepath=STOPAS_mod04_lab02.ipynb)
